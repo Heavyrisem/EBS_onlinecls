@@ -1,4 +1,6 @@
 # EBS 온라인클래스 URL 파인더
+[![NPM info](https://nodei.co/npm/ebs_onlinecls.png)](https://www.npmjs.com/package/ebs_onlinecls)
+
 EBS 온라인클래스의 주소를 학교 이름만으로 찾는 라이브러리입니다.
 
 ## 사용법
