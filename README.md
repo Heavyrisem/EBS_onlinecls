@@ -23,12 +23,13 @@ EBSurl("학교이름").then(res => {
 [
   {
     cityNm: '경기',
+    areaNm: '용인시',
     schulLevelCode: 'H',
     schulLevelNnm: '고등학교',
-    schulNm: '한국디지털미디어고등학교',
-    schulCcode: '04402',
-    host: 'hoc32',
-    url: 'https://hoc32.ebssw.kr/onlineClass/search/onlineClassSearchView.do?schulCcode=04402&schCssTyp=online_poc'
+    schulNm: '덕영고등학교',
+    schulCcode: '04396',
+    host: 'hoc34',
+    url: 'https://hoc34.ebssw.kr/onlineClass/search/onlineClassSearchView.do?schulCcode=04396&schCssTyp=online_poc'
   }
 ]
 ```
